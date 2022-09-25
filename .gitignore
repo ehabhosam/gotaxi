@@ -1,0 +1,31 @@
+taxi-app-backend/node_modules/
+taxi-app-backend/.expo/
+taxi-app-backend/dist/
+taxi-app-backend/npm-debug.*
+taxi-app-backend/*.jks
+taxi-app-backend/*.p8
+taxi-app-backend/*.p12
+taxi-app-backend/*.key
+taxi-app-backend/*.mobileprovision
+taxi-app-backend/*.orig.*
+taxi-app-backend/web-build/
+
+# macOS
+taxi-app-backend/.DS_Store
+taxi-app-backend/.env
+
+taxt-app-react-native/node_modules/
+taxt-app-react-native/.expo/
+taxt-app-react-native/dist/
+taxt-app-react-native/npm-debug.*
+taxt-app-react-native/*.jks
+taxt-app-react-native/*.p8
+taxt-app-react-native/*.p12
+taxt-app-react-native/*.key
+taxt-app-react-native/*.mobileprovision
+taxt-app-react-native/*.orig.*
+taxt-app-react-native/web-build/
+
+# macOS
+taxt-app-react-native/.DS_Store
+taxt-app-react-native/.env
